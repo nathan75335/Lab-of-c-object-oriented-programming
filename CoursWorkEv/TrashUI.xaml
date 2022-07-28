@@ -1,0 +1,39 @@
+﻿<Page x:Class="CoursWorkEv.TrashUI"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CoursWorkEv"
+      mc:Ignorable="d" 
+      d:DesignHeight="530" d:DesignWidth="600"
+      Title="TrashUI">
+
+    <Grid>
+        <DataGrid x:Name="DataGridDataTrash" VerticalAlignment="Center" HorizontalAlignment="Center" 
+                   Height="430" AutoGenerateColumns="False" Margin="0 0 0 100"
+                  ItemsSource="{Binding}" 
+                   BorderBrush="Transparent">
+            <DataGrid.Columns>
+                <DataGridTextColumn Width="*" Header="Name" Binding="{Binding NameOfPizza}"  />
+                <DataGridTextColumn Width="*" Header="Price" Binding="{Binding Price}" />
+                
+
+            </DataGrid.Columns>
+            <DataGrid.Resources>
+                <Style  TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="Cyan"/>
+                    <Setter Property="BorderThickness" Value="1"/>
+       
+                    <Setter Property="Foreground" Value="Black"/>
+                    <Setter Property="FontSize" Value="20"/>
+                    <Setter Property="Height" Value="50"/>
+                   
+                </Style>
+            </DataGrid.Resources>
+        </DataGrid>
+        <Button VerticalAlignment="Bottom" HorizontalAlignment="center" Width="150" Height="70"
+                Content="Order" Margin ="0 0 0 20" Background="Cyan" FontSize="20" 
+                x:Name="ButtonOrder" Click="ButtonOrder_Click" Cursor="Hand"/>
+ 
+    </Grid>
+</Page>

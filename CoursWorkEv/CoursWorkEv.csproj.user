@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AdministratorUI.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="HtmlPageUI.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ListOfOrdersUI.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PizzaCatalog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PizzaCatalogUserUI.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RedactPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TrashUI.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserUI.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AdministratorUI.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="HtmlPageUI.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ListOfOrdersUI.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PizzaCatalog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PizzaCatalogUserUI.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RedactPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TrashUI.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserUI.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

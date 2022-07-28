@@ -1,0 +1,12 @@
+C:\Users\joyce\OneDrive\Bureau\CoursWorkEv\MyPizzaClasses\bin\Debug\net6.0\MyPizzaClasses.deps.json
+C:\Users\joyce\OneDrive\Bureau\CoursWorkEv\MyPizzaClasses\bin\Debug\net6.0\MyPizzaClasses.dll
+C:\Users\joyce\OneDrive\Bureau\CoursWorkEv\MyPizzaClasses\bin\Debug\net6.0\MyPizzaClasses.pdb
+C:\Users\joyce\OneDrive\Bureau\CoursWorkEv\MyPizzaClasses\obj\Debug\net6.0\MyPizzaClasses.csproj.AssemblyReference.cache
+C:\Users\joyce\OneDrive\Bureau\CoursWorkEv\MyPizzaClasses\obj\Debug\net6.0\MyPizzaClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joyce\OneDrive\Bureau\CoursWorkEv\MyPizzaClasses\obj\Debug\net6.0\MyPizzaClasses.AssemblyInfoInputs.cache
+C:\Users\joyce\OneDrive\Bureau\CoursWorkEv\MyPizzaClasses\obj\Debug\net6.0\MyPizzaClasses.AssemblyInfo.cs
+C:\Users\joyce\OneDrive\Bureau\CoursWorkEv\MyPizzaClasses\obj\Debug\net6.0\MyPizzaClasses.csproj.CoreCompileInputs.cache
+C:\Users\joyce\OneDrive\Bureau\CoursWorkEv\MyPizzaClasses\obj\Debug\net6.0\MyPizzaClasses.dll
+C:\Users\joyce\OneDrive\Bureau\CoursWorkEv\MyPizzaClasses\obj\Debug\net6.0\refint\MyPizzaClasses.dll
+C:\Users\joyce\OneDrive\Bureau\CoursWorkEv\MyPizzaClasses\obj\Debug\net6.0\MyPizzaClasses.pdb
+C:\Users\joyce\OneDrive\Bureau\CoursWorkEv\MyPizzaClasses\obj\Debug\net6.0\ref\MyPizzaClasses.dll
